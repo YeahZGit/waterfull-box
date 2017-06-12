@@ -13,7 +13,7 @@ $ npm install waterfull-box
 </div>
 ```
 
-### Attention
+### Notes
 + The box model of all first level child nodes in waterfull is set to the IE box model
 
 ## License
